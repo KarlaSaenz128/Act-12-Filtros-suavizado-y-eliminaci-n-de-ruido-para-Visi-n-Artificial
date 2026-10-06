@@ -1,0 +1,2 @@
+# Act-12-Filtros-suavizado-y-eliminaci-n-de-ruido-para-Visi-n-Artificial
+Practica se realiza en clase
